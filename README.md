@@ -1,5 +1,6 @@
 # K12-Application
-A K-12 education application is a digital platform designed to support and enhance the learning experience for students from kindergarten through 12th grade. These applications can serve a wide range of educational purposes, including:
+https://www.k12.com/
+A K-12 education application is a digital platform designed to support and enhance the learning experience for students from kindergarten through 12th grade. These applications can serve a wide range of educationaL purposes, including:
 
 Key Features of a K-12 Education Application:
 Curriculum Support:
